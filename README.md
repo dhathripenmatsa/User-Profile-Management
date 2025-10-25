@@ -19,7 +19,8 @@ A responsive React application to manage user profiles, add/edit users, view det
 ---
 
 ## 🛠️ Tech Stack
-- React 18  
+- React 18
+- Bootstrap 
 - React Router DOM  
 - CSS3 / Custom styling  
 - LocalStorage for persistence  
