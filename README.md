@@ -23,7 +23,8 @@ A responsive React application to manage user profiles, add/edit users, view det
 - Bootstrap 
 - React Router DOM  
 - CSS3 / Custom styling  
-- LocalStorage for persistence  
+- LocalStorage for persistence
+- Vercel for deployment 
 
 ---
 ## ✨ Author
